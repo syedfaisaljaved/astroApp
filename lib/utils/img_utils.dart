@@ -1,0 +1,10 @@
+final String logo = "assets/logo.png";
+final String ask = "assets/ask.png";
+final String filter = "assets/filter.png";
+final String hamburger = "assets/hamburger.png";
+final String home = "assets/home.png";
+final String profile = "assets/profile.png";
+final String report = "assets/reports.png";
+final String search = "assets/search.png";
+final String sort = "assets/sort.png";
+final String talk = "assets/talk.png";
